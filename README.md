@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ## 👋 Hi, I'm Abdullah Akmal  
 **Data Analyst | BI Developer | Python Enthusiast**
 
@@ -19,8 +17,8 @@
 ---
 
 ## 📈 GitHub Stats
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=default&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Abdullah_Akmal&theme=default&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah_Akmal&layout=compact)
 
 ---
 
