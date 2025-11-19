@@ -1,5 +1,5 @@
 ## 👋 Hi, I'm Abdullah Akmal  
-**Data Analyst | BI Developer | Python Enthusiast**
+**Data Analyst | BI Developer | Machine Learning Developer**
 
 🎯 Turning raw data into actionable insights  
 📊 Building dashboards with **Power BI**, **Tableau**, **Looker Studio**  
