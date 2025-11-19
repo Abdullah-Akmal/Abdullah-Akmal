@@ -1,16 +1,51 @@
 ## Hi there 👋
 
-<!--
-**Abdullah-Akmal/Abdullah-Akmal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Hi, I'm Abdullah Akmal  
+**Data Analyst | BI Developer | Python Enthusiast**
 
-Here are some ideas to get you started:
+🎯 Turning raw data into actionable insights  
+📊 Building dashboards with **Power BI**, **Tableau**, **Looker Studio**  
+🧠 Passionate about **Data Science**, **EDA**, **SQL**, and **Automation**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
+
+## 🚀 Tech Stack
+**Languages:** Python, SQL, DAX  
+**Libraries:** NumPy, pandas, Matplotlib, Seaborn, scikit-learn  
+**BI Tools:** Power BI, Tableau, Looker Studio, Excel  
+**Databases:** MySQL, SQLite  
+**Other:** Git, Jupyter, VS Code  
+
+---
+
+## 📈 GitHub Stats
+![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=default&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+
+---
+
+## 🔥 About Me
+- 🎓 Business Data Analytics student  
+- 🧪 Experienced in EDA, data cleaning, wrangling & visualization  
+- 🧩 Love solving real business problems through data  
+- 🧑‍🏫 Delivering online training for **Power BI, Tableau, Qlik Sense, DOMO**  
+- 📍 Based in Pakistan  
+
+---
+
+## 🛠 Projects
+🔹 **Power BI Dashboards** – Healthcare, Sales, Finance  
+🔹 **Python EDA Projects** – Machine learning, visualization, insights  
+🔹 **SQL Portfolio** – Queries, subqueries, joins, window functions  
+
+---
+
+## 🌐 Connect With Me
+[LinkedIn](https://www.linkedin.com) • [Portfolio Website](#)
+
+---
+
+## 📝 Fun Fact
+I believe **data tells the most honest story — if visualized right.**
+
 -->
